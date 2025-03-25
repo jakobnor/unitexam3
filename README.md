@@ -51,3 +51,5 @@ Mapped this to the provided matrix. Initially misaligned rows/columns but correc
 Identified atomic number 18 (Argon) as the final answer.
 
 This puzzle required careful rechecking, but persistence paid off.
+
+Links: https://en.wikipedia.org/wiki/Alchemical_symbol
