@@ -49,7 +49,7 @@ async function sendAnswer(answerVal) {
 async function runAll() {
   const initialPuzzle = await initiatePuzzle();
 
-  const puzzleResponse = await sendAnswer("☿♀🜍🜂🜔🜄☉🜁");
+  const puzzleResponse = await sendAnswer("ARGON");
 
   if (puzzleResponse && puzzleResponse.nextChallenge) {
     console.log("Upcoming puzzle:", puzzleResponse.nextChallenge);
